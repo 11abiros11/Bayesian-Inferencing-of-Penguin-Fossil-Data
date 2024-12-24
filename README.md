@@ -14,5 +14,5 @@ All the relevant packages necessary to run the Python notebook is inside the 'en
 
 Citations:
 
-[1] Drummond Alexei J. and Stadler Tanja 2016Bayesian phylogenetic estimation of fossil agesPhil. Trans. R. Soc. B37120150129
+[1] Drummond Alexei J. and Stadler Tanja 2016.Bayesian phylogenetic estimation of fossil agesPhil. Trans. R. Soc. B37120150129
 http://doi.org/10.1098/rstb.2015.0129
