@@ -11,6 +11,7 @@ As for the prior distributions, I had to consider the prior distributions for se
 The paper uses the fossilized birth-death process as a model for the prior. In essence, the process models the phylogenetic tree, starting from the ancestral species (here labeled "reference" in the program). It uses a Poisson process to model whether or not a given lineage goes extinct or survives. I do not inherit this process in my notebook for the sake of simplicity, although adopting this would also improve my estimated ages.
 
 All the relevant packages necessary to run the Python notebook is inside the 'environment.yml' file.
+
 Special thanks to R.J. Furnstahl in the course Physics 8820 at the Ohio State University for help with emcee syntax and general syntax.
 
 Citations:
