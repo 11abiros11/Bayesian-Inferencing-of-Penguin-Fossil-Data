@@ -12,6 +12,8 @@ The paper uses the fossilized birth-death process as a model for the prior. In e
 
 All the relevant packages necessary to run the Python notebook is inside the 'environment.yml' file.
 
+Code for emcee adapted from R.J. Furnstahl in the course Physics 8820 at the Ohio State University.
+
 Citations:
 
 [1] Drummond Alexei J. and Stadler Tanja 2016. Bayesian phylogenetic estimation of fossil agesPhil. Trans. R. Soc. B37120150129. http://doi.org/10.1098/rstb.2015.0129
